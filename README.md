@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arjun-011
-- 👀 I’m interested in web/app developmen and racing
+- 👀 I’m interested in web/app development and racing
 - 🌱 I’m currently learning Java and Javascript
 - 💞️ I’m looking to collaborate on any projects/business Ideas 
 - 📫 How to reach me arjundsm011@gmail.com
